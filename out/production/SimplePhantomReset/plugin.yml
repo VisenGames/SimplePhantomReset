@@ -1,0 +1,8 @@
+name: SimplePhantomReset
+description: Resets the player phantom timer
+version: 1.0
+author: VisenGames
+main: games.visen.simplephantomreset.Main
+commands:
+  sleep:
+    usage: /sleep

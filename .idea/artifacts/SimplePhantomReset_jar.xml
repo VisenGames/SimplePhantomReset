@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimplePhantomReset:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimplePhantomReset_jar</output-path>
+    <root id="archive" name="SimplePhantomReset.jar">
+      <element id="module-output" name="SimplePhantomReset" />
+    </root>
+  </artifact>
+</component>
